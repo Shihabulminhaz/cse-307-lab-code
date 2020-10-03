@@ -1,0 +1,122 @@
+.background{
+	background-color: #edf6f6;
+	height:738px;
+	width:100%;
+}
+
+.login-background{
+	float: left;
+	background-color: #71f0e8;
+	height: 400px;
+	width: 400px;
+	margin-left:550px;
+	//padding-top: 200px;
+	margin-top: 100px;
+}
+
+.message{
+	float: left;
+	height:20px;
+	width: 350px;
+	margin-left:50px;
+}
+
+.username{
+	float: left;
+//	background-color: red;
+	height:100px;
+	width: 350px;
+	margin-left:50px;
+}
+
+.email{
+	float: left;
+//	background-color: yellow;
+	height:80px;
+	width: 350px;
+	margin-left:50px;
+}
+
+.password{
+	float: left;
+//	background-color: orange;
+	height:100px;
+	width: 350px;
+	margin-left:50px;
+}
+
+.button{
+	float: left;
+//	background-color: orange;
+	height:100px;
+	width: 350px;
+	margin-left:50px;
+}
+
+.label_user{
+	float: left;
+//	background-color: orange;
+	margin-top: 70px;
+	 font-weight: bold;
+}
+
+.label_email{
+	float: left;
+//	background-color: orange;
+	margin-top: 45px;
+	 font-weight: bold;
+}
+
+.label_password{
+	float: left;
+//	background-color: orange;
+	margin-top: 40px;
+	 font-weight: bold;
+}
+
+.input_user{
+	float: left;
+//	background-color: black;
+	margin-top: 70px;
+	margin-left: 40px;
+	border-radius: 10px;
+	height: 25px;
+	width: 200px;
+}
+
+.input_email{
+	float: left;
+//	background-color: black;
+	margin-top: 45px;
+	margin-left: 73px;
+	border-radius: 10px;
+	height: 25px;
+	width: 200px;
+}
+
+.input_password{
+//	background-color: black;
+	margin-top: 40px;
+	margin-left: 13px;
+	border-radius: 10px;
+	height: 25px;
+	width: 200px;
+}
+
+.signin{
+	float: left;
+	background-color: #ecec2b;
+	height:40px;
+	width: 110px;
+	margin-left:25px;
+	border-radius: 5px;
+}
+
+.signup{
+	float: left;
+	background-color: #ecec2b;
+	height:40px;
+	width: 110px;
+	margin-left:55px;
+	border-radius: 5px;
+}
